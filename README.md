@@ -56,15 +56,15 @@ On the way to be a junior programer. Student at Green Fox Academy
   
 <h3  align="center">Friends:</h3>
 
-<div style="display:flex"><h4> [developers:] </h4>
+<div style="display:flex"><h4> [Developers:] </h4>
 
 <a href="https://github.com/Gellipapa">[#Gellipapa]</a>
 <a href="https://github.com/aDavidkaa">[#Davidkaaaah]</a>
 <a href="https://github.com/CsokiHUN">[#Csoki]</a>
-<a href="#">#Füsti</a>
-<a href="#">#Beni</a>
+<a href="#">[#Füsti]</a>
+<a href="#">[#Beni]</a>
 <a href="https://github.com/Gandalf6989">[#Gandalf]</a>
-<a href="#">#Ádám</a>
+<a href="#">[#Ádám]</a>
 <a href="https://www.twitch.tv/skeletonwarrior66">[#Csontvázharcos]</a>
 <a href="https://www.twitch.tv/xeppy94">[#Xeppy]</a>
 </div>
@@ -76,7 +76,7 @@ On the way to be a junior programer. Student at Green Fox Academy
 <a href="https://www.twitch.tv/klikkertv">[#KlikkerTV]</a>
 
 </div>
-<div style="display:flex"><h4> [GreenFox friends:] </h4>
+<div style="display:flex"><h4> [Green Fox friends:] </h4>
 
 <a href="https://github.com/rdg5">[#Sanyi]</a>
 <a href="https://github.com/matecserven">[#Máté]</a>
