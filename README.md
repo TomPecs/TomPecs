@@ -54,8 +54,8 @@ On the way to be a junior programer. Student at Green Fox Academy
 
 </p>
 
-<details>
-  <summary><h3  align="center">Friends:</h3></summary>
+<details> 
+  <summary>Click to Open<h3  align="center">Friends:</h3></summary>
  
   
 
