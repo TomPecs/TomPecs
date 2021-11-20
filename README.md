@@ -1,4 +1,5 @@
 
+
   
 
 <h1  align="center">Hi there 👋, I am TomPecs!</h1>
@@ -53,8 +54,11 @@ On the way to be a junior programer. Student at Green Fox Academy
 
 </p>
 
+<details>
+  <summary><h3  align="center">Friends:</h3></summary>
+ 
   
-<h3  align="center">Friends:</h3>
+
 
 <div style="display:flex"><h4> [Developers:] </h4>
 
@@ -95,7 +99,7 @@ On the way to be a junior programer. Student at Green Fox Academy
 <a href="https://github.com/bodiors">[#Örs]</a>
 
   </div>
-  
+  </details>
 
 <!--
 
