@@ -1,7 +1,3 @@
-
-
-  
-
 <h1  align="center">Hi there 👋, I am TomPecs!</h1>
 
 <h3  align="center">
@@ -9,8 +5,6 @@
 On the way to be a junior programer. Student at Green Fox Academy
 
 </h3>
-
-  
 
 <p  align="center">
 
@@ -21,8 +15,6 @@ On the way to be a junior programer. Student at Green Fox Academy
 </a>
 
 </p>
-
-  
 
 <p  align="center">
 
@@ -57,46 +49,22 @@ On the way to be a junior programer. Student at Green Fox Academy
 <details> 
   <summary>Click to Open<h3  align="center">Friends:</h3></summary>
  
-  
 
 
 <div style="display:flex"><h4> [Developers:] </h4>
 
-<a href="#">[#Ádám]</a>
-<a href="#">[#Beni]</a>
-<a href="https://github.com/CsokiHUN">[#Csoki]</a>
-<a href="https://www.twitch.tv/skeletonwarrior66">[#Csontvázharcos]</a>
-<a href="https://github.com/aDavidkaa">[#Davidkaaaah]</a>
-<a href="#">[#Füsti]</a>
-<a href="https://github.com/Gandalf6989">[#Gandalf]</a>
-<a href="https://github.com/Gellipapa">[#Gellipapa]</a>
-<a href="https://www.twitch.tv/xeppy94">[#Xeppy]</a>
+<a href="#">[#Ádám]</a> <a href="#">[#Beni]</a> <a href="https://github.com/CsokiHUN">[#Csoki]</a> <a href="https://www.twitch.tv/skeletonwarrior66">[#Csontvázharcos]</a> <a href="https://github.com/aDavidkaa">[#Davidkaaaah]</a> <a href="#">[#Füsti]</a> <a href="https://github.com/Gandalf6989">[#Gandalf]</a> <a href="https://github.com/Gellipapa">[#Gellipapa]</a> <a href="https://www.twitch.tv/xeppy94">[#Xeppy]</a>
+
 </div>
 
 <div style="display:flex"><h4>  [Non developers:] </h4>
 
-<a href="https://www.twitch.tv/mran0_">[#An0]</a>
-<a href="https://www.twitch.tv/kantor_pictures">[#Kantor]</a>
-<a href="https://www.twitch.tv/klikkertv">[#KlikkerTV]</a>
+<a href="https://www.twitch.tv/mran0_">[#An0]</a> <a href="https://www.twitch.tv/kantor_pictures">[#Kantor]</a> <a href="https://www.twitch.tv/klikkertv">[#KlikkerTV]</a>
 
 </div>
 <div style="display:flex"><h4> [Green Fox friends:] </h4>
 
-<a href="https://github.com/rdg5">[#Sanyi]</a>
-<a href="https://github.com/matecserven">[#Máté]</a>
-<a href="https://github.com/bkeszl">[#Barna]</a>
-<a href="https://github.com/KreczAndris">[#András]</a>
-<a href="https://github.com/nldanne">[#Anh]</a>
-<a href="https://github.com/dragonfly-88">[#Annila]</a>
-<a href="https://github.com/brdsgnrx">[#Bence]</a>
-<a href="https://github.com/fauxmaux">[#Béla]</a>
-<a href="https://github.com/davidkanyik">[#Dávid]</a>
-<a href="https://github.com/Gbi92">[#Gabi]</a>
-<a href="https://github.com/kalip60">[#József]</a>
-<a href="https://github.com/MazurLaura">[#Lili]</a>
-<a href="https://github.com/jambi997">[#Marci]</a>
-<a href="https://github.com/XentiusCRFX">[#Mészi]</a>
-<a href="https://github.com/bodiors">[#Örs]</a>
+<a href="https://github.com/rdg5">[#Sanyi]</a> <a href="https://github.com/matecserven">[#Máté]</a> <a href="https://github.com/bkeszl">[#Barna]</a> <a href="https://github.com/KreczAndris">[#András]</a> <a href="https://github.com/nldanne">[#Anh]</a> <a href="https://github.com/dragonfly-88">[#Annila]</a> <a href="https://github.com/brdsgnrx">[#Bence]</a> <a href="https://github.com/fauxmaux">[#Béla]</a> <a href="https://github.com/davidkanyik">[#Dávid]</a> <a href="https://github.com/Gbi92">[#Gabi]</a> <a href="https://github.com/kalip60">[#József]</a> <a href="https://github.com/MazurLaura">[#Lili]</a> <a href="https://github.com/jambi997">[#Marci]</a> <a href="https://github.com/XentiusCRFX">[#Mészi]</a> <a href="https://github.com/bodiors">[#Örs]</a>
 
   </div>
   </details>
@@ -105,11 +73,11 @@ On the way to be a junior programer. Student at Green Fox Academy
 
 **TomPecs/TomPecs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-  
+
 
 Here are some ideas to get you started:
 
-  
+
 
 - 🔭 I’m currently working on ...
 
