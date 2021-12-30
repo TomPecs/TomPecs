@@ -13,7 +13,9 @@ On the way to be a junior programer. Student at Green Fox Academy
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TomPecs&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"  />
 <!-- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TomPecs&layout=compact&exclude_lang=java+r&theme=vue-dark" /> -->
 </a>
-
+  <p  align="center">
+  <a href=https://gitlab.com/TomPecs><img style="border:4px solid white; border-radius: 10px;" height="50em" src="https://miro.medium.com/max/1800/1*FOF2MNH3TP46Z-pQlI5MFQ.jpeg" /></a>
+</p>
 </p>
 
 <p  align="center">
