@@ -33,7 +33,9 @@ On the way to be a junior programer. Student at Green Fox Academy
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="php" width="40" height="40"/>
-
+  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="lua" width="40" height="40"/>
+  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="lua" width="40" height="40"/>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="node" width="40" height="40"/>
@@ -44,7 +46,7 @@ On the way to be a junior programer. Student at Green Fox Academy
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
 
-<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg" alt="mysql" width="40" height="40"/> -->
+<img src="https://mariadb.org/wp-content/themes/twentynineteen-child/icons/logo_seal.svg" alt="mysql" width="70" height="40"/>
   
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mysql" width="40" height="40"/>
   
