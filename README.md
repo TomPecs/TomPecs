@@ -6,6 +6,11 @@ On the way to be a junior programer. Student at Green Fox Academy
 
 </h3>
 
+  <details> 
+  <summary>Sum of GitHub and GitLab activity [Commits Public and Private]</summary>
+    <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=TomPecs&labels=true" />
+</details>
+
 <p  align="center">
 
 <a href="https://github.com/TomPecs">
@@ -25,8 +30,10 @@ On the way to be a junior programer. Student at Green Fox Academy
 <img src="https://badges.pufler.dev/repos/Tompecs?label=Public+repos&style=flat-square&color=6875f5&logo=github"/>
 
 <img src="https://badges.pufler.dev/visits/TomPecs/Tompecs?style=flat-square&color=6875f5&logo=github"/>
-
+  
 </p>
+
+
 
 <p  align="center">
 
