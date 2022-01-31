@@ -6,11 +6,6 @@ On the way to be a junior programer. Student at Green Fox Academy
 
 </h3>
 
-  <details> 
-  <summary>Sum of GitHub and GitLab activity [Commits Public and Private]</summary>
-    <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=TomPecs&labels=true" />
-</details>
-
 <p  align="center">
 
 <a href="https://github.com/TomPecs">
@@ -20,6 +15,13 @@ On the way to be a junior programer. Student at Green Fox Academy
 </a>
   <p  align="center">
   <a href=https://gitlab.com/TomPecs><img style="border:4px solid white; border-radius: 10px;" height="50em" src="https://miro.medium.com/max/1800/1*FOF2MNH3TP46Z-pQlI5MFQ.jpeg" /></a>
+      <details> 
+  <summary>Sum of GitHub and GitLab activity [Commits Public and Private]</summary>
+        <a href="https://profile.codersrank.io/user/tompecs">
+    <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=TomPecs&labels=true" />
+        </a>
+</details>
+    
 </p>
 </p>
 
