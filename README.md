@@ -2,7 +2,7 @@
 
 <h3  align="center">
 
-On the way to be a junior programer. Student at Green Fox Academy
+Junior sofware developer @ Novin.bt 
 
 </h3>
 
