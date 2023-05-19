@@ -2,7 +2,7 @@
 
 <h3  align="center">
 
-Junior software developer @ Novin.bt 
+Software developer @ Novin.bt 
 
 </h3>
 
