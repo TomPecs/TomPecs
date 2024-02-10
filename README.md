@@ -1,14 +1,15 @@
 <h1  align="center">Hi there 👋, I am TomPecs!</h1>
 
 <h3  align="center">
-
-Software developer <3 Looking for job
-
- - 1.5 years work experiance
- - 0.5 year full time boot camp
- - 3 year hobby based projects (Lua - GTA 5 Fivem Server making)
-
+ Software developer <3 Looking for job
 </h3>
+
+
+*   ##### 1.5 years work experiance
+    
+*   ##### 0.5 year full time boot camp
+    
+*   ##### 3 year hobby based projects (Lua - GTA 5 Fivem Server making)
 
 <p  align="center">
 
@@ -67,6 +68,11 @@ Software developer <3 Looking for job
   
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" title="reactJS" width="40" height="40"/>
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="angular" title="angular" width="40" height="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" title="java" width="40" height="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="postgreSQL" title="postgreSQL" width="40" height="40"/>        
 
 </p>
 
