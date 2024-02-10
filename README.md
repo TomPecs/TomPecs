@@ -2,7 +2,11 @@
 
 <h3  align="center">
 
-Software developer @ Novin.bt 
+Software developer <3 Looking for job
+
+ - 1.5 years work experiance
+ - 0.5 year full time boot camp
+ - 3 year hobby based projects (Lua - GTA 5 Fivem Server making)
 
 </h3>
 
